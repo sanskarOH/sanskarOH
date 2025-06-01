@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀I am currently working on [Makertificate](https://github.com/sanskarOH/makertificate)<br>💪I have just completed [AttendHub](https://github.com/sanskarOH/attendhub)<br>📚Currently learning React.js<br>✅ Fun fact : I am CSE CyberSec student by the day a caffeine addict and a developer by night.<br>Always enthusiastic about tech and always ready to learn new things 
+🚀I am currently working on [Sedium](https://github.com/sanskarOH/sedium)<br>💪I have just completed [AttendHub](https://github.com/sanskarOH/attendhub)<br>📚Currently learning React.js<br>✅ Fun fact : I am CSE CyberSec student by the day a caffeine addict and a developer by night.<br>Always enthusiastic about tech and always ready to learn new things 
 
 
 ## 🌐 Socials:
