@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [sanskardiwedi.in](sanskardiwedi.in)
 
-- 📝 I regularly write articles on [Nowhere](Nowhere)
+- 📝 I regularly write articles on [Nowhere]
 
 - 💬 Ask me about **Anything except Coding.**
 
 - 📫 How to reach me **Take a Cab**
 
-- 📄 Know about my experiences [hmmmmmmmmmmmm procastinationatia will make it](hmmmmmmmmmmmm procastinationatia will make it)
+- 📄 Know about my experiences [hmmmmmmmmmmmm procastinationatia will make it]
 
 - ⚡ Fun fact **I think I am funny.**
 
