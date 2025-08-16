@@ -11,15 +11,15 @@
 
 - 👯 I just completed working on [Easy-Search](https://github.com/sanskarOH/EasySearch)
 
-- 👨‍💻 All of my projects are available at [sanskardiwedi.in](sanskardiwedi.in)
+- 👨‍💻 All of my projects are available at [BrainRot](sanskardiwedi.in)
 
-- 📝 I regularly write articles on [Nowhere](Nowhere)
+- 📝 I regularly write articles on [Nowhere]
 
 - 💬 Ask me about **Anything except Coding.**
 
 - 📫 How to reach me **Take a Cab**
 
-- 📄 Know about my experiences [https://resume420.tiiny.site/](https://resume420.tiiny.site/)
+- 📄 Know about my experiences [Resume](https://resume420.tiiny.site/)
 
 - ⚡ Fun fact **I think I am funny.**
 
